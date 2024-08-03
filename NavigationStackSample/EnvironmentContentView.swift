@@ -15,7 +15,6 @@ struct EnvironmentContentView: View {
     var body: some View {
         VStack {
             Text("This is luight view")
-
                 .onChange(of: scenePhase) { newValue in
                     if newValue == .active {
                         print("active1")
