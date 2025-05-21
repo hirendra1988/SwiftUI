@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C1100FB8-7FBA-4FBD-A3DF-06622460E16D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C5A4A03-9EEA-44CE-B2C2-93B26ED2D275"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScrollViewDemo/HorizontalScrollView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56">
+            <Locations>
+               <Location
+                  uuid = "8C5A4A03-9EEA-44CE-B2C2-93B26ED2D275 - 28954dadb0537589"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.safeAreaPadding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in ScrollViewDemo.AutoScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "8C5A4A03-9EEA-44CE-B2C2-93B26ED2D275 - 48f9b7050ba5847"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in ScrollViewDemo.ManuallyScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "8C5A4A03-9EEA-44CE-B2C2-93B26ED2D275 - 5b65e5b51e53db28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in ScrollViewDemo.ManuallyScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3F27CDF-816F-4993-928D-AC095E9293E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScrollViewDemo/HorizontalScrollView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58">
+            <Locations>
+               <Location
+                  uuid = "D3F27CDF-816F-4993-928D-AC095E9293E9 - 87aca51adaf1ffbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.safeAreaPadding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in ScrollViewDemo.AutoScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "D3F27CDF-816F-4993-928D-AC095E9293E9 - 26e8386a5a394dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;ScrollViewDemo.ViewModel&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.safeAreaPadding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in ScrollViewDemo.AutoScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "D3F27CDF-816F-4993-928D-AC095E9293E9 - 1f64b786f7605508"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in ScrollViewDemo.ManuallyScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "D3F27CDF-816F-4993-928D-AC095E9293E9 - b3d9be14848e65ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in ScrollViewDemo.ManuallyScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "D3F27CDF-816F-4993-928D-AC095E9293E9 - 838940421307fbca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in ScrollViewDemo.ManuallyScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "D3F27CDF-816F-4993-928D-AC095E9293E9 - 6ca984f541d765f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in ScrollViewDemo.ManuallyScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59B278E9-A50A-46B8-A119-64B71630B84B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ScrollViewDemo/HorizontalScrollView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63">
+            <Locations>
+               <Location
+                  uuid = "59B278E9-A50A-46B8-A119-64B71630B84B - 2a6e3522e3b40e5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #2 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in ScrollViewDemo.ManuallyScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "59B278E9-A50A-46B8-A119-64B71630B84B - 9d8053f9137ef8a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt; in closure #2 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.ScrollView&lt;SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0&gt;&gt;&gt;)&gt; in ScrollViewDemo.ManuallyScrollHorizontalScrollView.body.getter : some"
+                  moduleName = "ScrollViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Documents/Personal/Learning/SwiftUI/V2/ScrollViewDemo/ScrollViewDemo/HorizontalScrollView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
